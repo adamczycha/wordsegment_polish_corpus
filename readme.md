@@ -50,8 +50,10 @@ wordsegment.segment(text)
  'energetyki']
  ```
 
+```bibtex
 @ONLINE{wikidump,
-    author = "Wikimedia Foundation",
-    title  = "Wikimedia Downloads",
-    url    = "https://dumps.wikimedia.org"
+  author = "Wikimedia Foundation",
+  title = "Wikimedia Downloads",
+  url = "https://dumps.wikimedia.org"
 }
+```
