@@ -49,3 +49,9 @@ wordsegment.segment(text)
  'oraz',
  'energetyki']
  ```
+
+@ONLINE{wikidump,
+    author = "Wikimedia Foundation",
+    title  = "Wikimedia Downloads",
+    url    = "https://dumps.wikimedia.org"
+}
